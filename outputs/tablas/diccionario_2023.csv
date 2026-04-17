@@ -1,0 +1,61 @@
+﻿tabla,atributo,tipo_dato,descripcion,nulos,no_nulos,valores_distintos,ejemplo_valor,comparable_2022_2024
+resumen_matricula_2023,AGNO,Int64,Anio del registro.,0,16659,1,2023,1
+resumen_matricula_2023,COD_COM_RBD,int64,Codigo de comuna del establecimiento.,0,16659,346,15101,1
+resumen_matricula_2023,COD_DEPE,int64,Codigo de dependencia administrativa (nivel general).,0,16659,6,6,1
+resumen_matricula_2023,COD_DEPE2,string,Codigo de dependencia administrativa (clasificacion oficial).,0,16659,5,5,1
+resumen_matricula_2023,COD_DEPROV_RBD,int64,Codigo del departamento provincial de educacion.,0,16659,42,151,1
+resumen_matricula_2023,COD_PRO_RBD,int64,Codigo de provincia del establecimiento.,0,16659,56,151,1
+resumen_matricula_2023,COD_REG_RBD,int64,Codigo de region del establecimiento.,0,16659,16,15,1
+resumen_matricula_2023,CUR_COMB_01,int64,Cantidad de cursos combinados en subcategoria especifica.,0,16659,3,0,1
+resumen_matricula_2023,CUR_COMB_02,int64,Cantidad de cursos combinados en subcategoria especifica.,0,16659,6,0,1
+resumen_matricula_2023,CUR_COMB_TOT,int64,Cantidad de cursos combinados en subcategoria especifica.,0,16659,7,0,1
+resumen_matricula_2023,CUR_SIM_01,int64,Cantidad de cursos simples en subcategoria especifica.,0,16659,19,0,1
+resumen_matricula_2023,CUR_SIM_02,int64,Cantidad de cursos simples en subcategoria especifica.,0,16659,52,0,1
+resumen_matricula_2023,CUR_SIM_03,int64,Cantidad de cursos simples en subcategoria especifica.,0,16659,16,0,1
+resumen_matricula_2023,CUR_SIM_04,int64,Cantidad de cursos simples en subcategoria especifica.,0,16659,35,0,1
+resumen_matricula_2023,CUR_SIM_05,int64,Cantidad de cursos simples en subcategoria especifica.,0,16659,45,0,1
+resumen_matricula_2023,CUR_SIM_06,int64,Cantidad de cursos simples en subcategoria especifica.,0,16659,30,0,1
+resumen_matricula_2023,CUR_SIM_07,int64,Cantidad de cursos simples en subcategoria especifica.,0,16659,41,23,1
+resumen_matricula_2023,CUR_SIM_08,int64,Cantidad de cursos simples en subcategoria especifica.,0,16659,17,16,1
+resumen_matricula_2023,CUR_SIM_TOT,int64,Cantidad de cursos simples en subcategoria especifica.,0,16659,90,39,1
+resumen_matricula_2023,DGV_RBD,string,Digito verificador del RBD.,0,16659,10,9,1
+resumen_matricula_2023,ESTADO_ESTAB,string,Estado del establecimiento (funcionamiento/receso/cerrado u otro).,0,16659,4,1,1
+resumen_matricula_2023,MAT_ENS_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,288,0,1
+resumen_matricula_2023,MAT_ENS_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,1021,0,1
+resumen_matricula_2023,MAT_ENS_3,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,111,0,1
+resumen_matricula_2023,MAT_ENS_4,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,244,0,1
+resumen_matricula_2023,MAT_ENS_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,664,0,1
+resumen_matricula_2023,MAT_ENS_6,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,267,0,1
+resumen_matricula_2023,MAT_ENS_7,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,470,594,1
+resumen_matricula_2023,MAT_ENS_8,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,66,193,1
+resumen_matricula_2023,MAT_HOM_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,167,0,1
+resumen_matricula_2023,MAT_HOM_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,627,0,1
+resumen_matricula_2023,MAT_HOM_3,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,76,0,1
+resumen_matricula_2023,MAT_HOM_4,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,168,0,1
+resumen_matricula_2023,MAT_HOM_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,418,0,1
+resumen_matricula_2023,MAT_HOM_6,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,187,0,1
+resumen_matricula_2023,MAT_HOM_7,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,339,376,1
+resumen_matricula_2023,MAT_HOM_8,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,54,97,1
+resumen_matricula_2023,MAT_HOM_TOT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,897,473,1
+resumen_matricula_2023,MAT_MUJ_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,172,0,1
+resumen_matricula_2023,MAT_MUJ_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,610,0,1
+resumen_matricula_2023,MAT_MUJ_3,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,64,0,1
+resumen_matricula_2023,MAT_MUJ_4,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,123,0,1
+resumen_matricula_2023,MAT_MUJ_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,423,0,1
+resumen_matricula_2023,MAT_MUJ_6,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,178,0,1
+resumen_matricula_2023,MAT_MUJ_7,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,301,218,1
+resumen_matricula_2023,MAT_MUJ_8,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,50,96,1
+resumen_matricula_2023,MAT_MUJ_TOT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,912,314,1
+resumen_matricula_2023,MAT_SI_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,2,0,1
+resumen_matricula_2023,MAT_SI_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,2,0,1
+resumen_matricula_2023,MAT_SI_3,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,2,0,0
+resumen_matricula_2023,MAT_SI_4,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,2,0,1
+resumen_matricula_2023,MAT_SI_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,2,0,1
+resumen_matricula_2023,MAT_SI_TOT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16659,2,0,1
+resumen_matricula_2023,MAT_TOTAL,int64,Matricula total de estudiantes del establecimiento.,0,16659,1478,787,1
+resumen_matricula_2023,NOM_COM_RBD,string,Nombre de comuna del establecimiento.,0,16659,346,ARICA,1
+resumen_matricula_2023,NOM_DEPROV_RBD,string,Nombre del departamento provincial de educacion.,0,16659,42,ARICA,1
+resumen_matricula_2023,NOM_RBD,string,Nombre del establecimiento educacional.,0,16659,15257,LICEO POLITECNICO ARICA,1
+resumen_matricula_2023,NOM_REG_RBD_A,string,Nombre/abreviatura de region del establecimiento.,0,16659,16,AYP,1
+resumen_matricula_2023,RBD,int64,Rol Base de Datos del establecimiento educacional.,0,16659,16659,1,1
+resumen_matricula_2023,RURAL_RBD,string,Indicador de ruralidad del establecimiento.,0,16659,2,0,1

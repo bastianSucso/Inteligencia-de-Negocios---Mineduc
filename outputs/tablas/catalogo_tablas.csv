@@ -1,0 +1,5 @@
+﻿tabla,archivo,anio,tipo_fuente,granularidad,filas,columnas,separador,contenido
+resumen_matricula_2022,20221013_Resumen_Matrícula_EE_Oficial_2022_20220430_WEB.csv,2022,principal,1 fila por establecimiento educacional (RBD) en el anio,16601,59,;,"Resumen anual de matricula y cursos por establecimiento, con atributos territoriales y administrativos."
+resumen_matricula_2023,20230925_Resumen_Matricula_EE_Oficial_2023_20230430_WEB.csv,2023,principal,1 fila por establecimiento educacional (RBD) en el anio,16659,60,;,"Resumen anual de matricula y cursos por establecimiento, con atributos territoriales y administrativos."
+resumen_matricula_2024,20240930_Resumen_Matricula_EE_Oficial_2024_20240430 1.csv,2024,principal,1 fila por establecimiento educacional (RBD) en el anio,16694,74,;,"Resumen anual de matricula y cursos por establecimiento, con atributos territoriales y administrativos."
+resumen_matricula_2025,20251029_Resumen_Matricula_EE_Oficial_2025_20250430.csv,2025,soporte,1 fila por establecimiento educacional (RBD) en el anio,16768,71,",","Resumen anual de matricula y cursos por establecimiento, con atributos territoriales y administrativos."

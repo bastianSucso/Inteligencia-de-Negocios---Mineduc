@@ -1,0 +1,60 @@
+﻿tabla,atributo,tipo_dato,descripcion,nulos,no_nulos,valores_distintos,ejemplo_valor,comparable_2022_2024
+resumen_matricula_2022,AGNO,Int64,Anio del registro.,0,16601,1,2022,1
+resumen_matricula_2022,COD_COM_RBD,int64,Codigo de comuna del establecimiento.,0,16601,346,15101,1
+resumen_matricula_2022,COD_DEPE,int64,Codigo de dependencia administrativa (nivel general).,0,16601,6,6,1
+resumen_matricula_2022,COD_DEPE2,string,Codigo de dependencia administrativa (clasificacion oficial).,0,16601,5,5,1
+resumen_matricula_2022,COD_DEPROV_RBD,int64,Codigo del departamento provincial de educacion.,0,16601,42,151,1
+resumen_matricula_2022,COD_PRO_RBD,int64,Codigo de provincia del establecimiento.,0,16601,56,151,1
+resumen_matricula_2022,COD_REG_RBD,int64,Codigo de region del establecimiento.,0,16601,16,15,1
+resumen_matricula_2022,CUR_COMB_01,int64,Cantidad de cursos combinados en subcategoria especifica.,0,16601,3,0,1
+resumen_matricula_2022,CUR_COMB_02,int64,Cantidad de cursos combinados en subcategoria especifica.,0,16601,6,0,1
+resumen_matricula_2022,CUR_COMB_TOT,int64,Cantidad de cursos combinados en subcategoria especifica.,0,16601,7,0,1
+resumen_matricula_2022,CUR_SIM_01,int64,Cantidad de cursos simples en subcategoria especifica.,0,16601,20,0,1
+resumen_matricula_2022,CUR_SIM_02,int64,Cantidad de cursos simples en subcategoria especifica.,0,16601,55,0,1
+resumen_matricula_2022,CUR_SIM_03,int64,Cantidad de cursos simples en subcategoria especifica.,0,16601,17,0,1
+resumen_matricula_2022,CUR_SIM_04,int64,Cantidad de cursos simples en subcategoria especifica.,0,16601,33,0,1
+resumen_matricula_2022,CUR_SIM_05,int64,Cantidad de cursos simples en subcategoria especifica.,0,16601,43,0,1
+resumen_matricula_2022,CUR_SIM_06,int64,Cantidad de cursos simples en subcategoria especifica.,0,16601,28,0,1
+resumen_matricula_2022,CUR_SIM_07,int64,Cantidad de cursos simples en subcategoria especifica.,0,16601,43,20,1
+resumen_matricula_2022,CUR_SIM_08,int64,Cantidad de cursos simples en subcategoria especifica.,0,16601,17,16,1
+resumen_matricula_2022,CUR_SIM_TOT,int64,Cantidad de cursos simples en subcategoria especifica.,0,16601,87,36,1
+resumen_matricula_2022,DGV_RBD,string,Digito verificador del RBD.,0,16601,10,9,1
+resumen_matricula_2022,ESTADO_ESTAB,string,Estado del establecimiento (funcionamiento/receso/cerrado u otro).,0,16601,4,1,1
+resumen_matricula_2022,MAT_ENS_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,296,0,1
+resumen_matricula_2022,MAT_ENS_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,1012,0,1
+resumen_matricula_2022,MAT_ENS_3,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,109,0,1
+resumen_matricula_2022,MAT_ENS_4,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,245,0,1
+resumen_matricula_2022,MAT_ENS_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,659,0,1
+resumen_matricula_2022,MAT_ENS_6,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,280,0,1
+resumen_matricula_2022,MAT_ENS_7,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,471,488,1
+resumen_matricula_2022,MAT_ENS_8,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,67,179,1
+resumen_matricula_2022,MAT_HOM_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,173,0,1
+resumen_matricula_2022,MAT_HOM_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,636,0,1
+resumen_matricula_2022,MAT_HOM_3,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,79,0,1
+resumen_matricula_2022,MAT_HOM_4,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,162,0,1
+resumen_matricula_2022,MAT_HOM_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,413,0,1
+resumen_matricula_2022,MAT_HOM_6,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,187,0,1
+resumen_matricula_2022,MAT_HOM_7,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,338,317,1
+resumen_matricula_2022,MAT_HOM_8,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,58,83,1
+resumen_matricula_2022,MAT_HOM_TOT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,918,400,1
+resumen_matricula_2022,MAT_MUJ_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,178,0,1
+resumen_matricula_2022,MAT_MUJ_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,623,0,1
+resumen_matricula_2022,MAT_MUJ_3,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,62,0,1
+resumen_matricula_2022,MAT_MUJ_4,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,128,0,1
+resumen_matricula_2022,MAT_MUJ_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,418,0,1
+resumen_matricula_2022,MAT_MUJ_6,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,182,0,1
+resumen_matricula_2022,MAT_MUJ_7,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,312,171,1
+resumen_matricula_2022,MAT_MUJ_8,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,50,96,1
+resumen_matricula_2022,MAT_MUJ_TOT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,930,267,1
+resumen_matricula_2022,MAT_SI_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,2,0,1
+resumen_matricula_2022,MAT_SI_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,2,0,1
+resumen_matricula_2022,MAT_SI_4,float64,Metrica de matricula en subcategoria especifica del dataset.,5381,11220,2,0.0,1
+resumen_matricula_2022,MAT_SI_5,float64,Metrica de matricula en subcategoria especifica del dataset.,5381,11220,2,0.0,1
+resumen_matricula_2022,MAT_SI_TOT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16601,2,0,1
+resumen_matricula_2022,MAT_TOTAL,int64,Matricula total de estudiantes del establecimiento.,0,16601,1491,667,1
+resumen_matricula_2022,NOM_COM_RBD,string,Nombre de comuna del establecimiento.,0,16601,346,ARICA,1
+resumen_matricula_2022,NOM_DEPROV_RBD,string,Nombre del departamento provincial de educacion.,0,16601,42,ARICA,1
+resumen_matricula_2022,NOM_RBD,string,Nombre del establecimiento educacional.,30,16571,15193,LICEO POLITECNICO ARICA,1
+resumen_matricula_2022,NOM_REG_RBD_A,string,Nombre/abreviatura de region del establecimiento.,0,16601,16,AYP,1
+resumen_matricula_2022,RBD,int64,Rol Base de Datos del establecimiento educacional.,0,16601,16601,1,1
+resumen_matricula_2022,RURAL_RBD,string,Indicador de ruralidad del establecimiento.,0,16601,2,0,1

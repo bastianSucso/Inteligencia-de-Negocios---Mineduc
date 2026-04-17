@@ -1,0 +1,75 @@
+﻿tabla,atributo,tipo_dato,descripcion,nulos,no_nulos,valores_distintos,ejemplo_valor,comparable_2022_2024
+resumen_matricula_2024,AGNO,Int64,Anio del registro.,0,16694,1,2024,1
+resumen_matricula_2024,COD_COM_RBD,int64,Codigo de comuna del establecimiento.,0,16694,346,15101,1
+resumen_matricula_2024,COD_DEPE,int64,Codigo de dependencia administrativa (nivel general).,0,16694,6,6,1
+resumen_matricula_2024,COD_DEPE2,string,Codigo de dependencia administrativa (clasificacion oficial).,0,16694,5,5,1
+resumen_matricula_2024,COD_DEPROV_RBD,int64,Codigo del departamento provincial de educacion.,0,16694,42,151,1
+resumen_matricula_2024,COD_PRO_RBD,int64,Codigo de provincia del establecimiento.,0,16694,56,151,1
+resumen_matricula_2024,COD_REG_RBD,int64,Codigo de region del establecimiento.,0,16694,16,15,1
+resumen_matricula_2024,CUR_COMB_01,int64,Cantidad de cursos combinados en subcategoria especifica.,0,16694,3,0,1
+resumen_matricula_2024,CUR_COMB_02,int64,Cantidad de cursos combinados en subcategoria especifica.,0,16694,6,0,1
+resumen_matricula_2024,CUR_COMB_TOT,int64,Cantidad de cursos combinados en subcategoria especifica.,0,16694,7,0,1
+resumen_matricula_2024,CUR_SIM_01,int64,Cantidad de cursos simples en subcategoria especifica.,0,16694,18,0,1
+resumen_matricula_2024,CUR_SIM_02,int64,Cantidad de cursos simples en subcategoria especifica.,0,16694,52,0,1
+resumen_matricula_2024,CUR_SIM_03,int64,Cantidad de cursos simples en subcategoria especifica.,0,16694,15,0,1
+resumen_matricula_2024,CUR_SIM_04,int64,Cantidad de cursos simples en subcategoria especifica.,0,16694,33,0,1
+resumen_matricula_2024,CUR_SIM_05,int64,Cantidad de cursos simples en subcategoria especifica.,0,16694,42,0,1
+resumen_matricula_2024,CUR_SIM_06,int64,Cantidad de cursos simples en subcategoria especifica.,0,16694,28,0,1
+resumen_matricula_2024,CUR_SIM_07,int64,Cantidad de cursos simples en subcategoria especifica.,0,16694,40,25,1
+resumen_matricula_2024,CUR_SIM_08,int64,Cantidad de cursos simples en subcategoria especifica.,0,16694,16,15,1
+resumen_matricula_2024,CUR_SIM_TOT,int64,Cantidad de cursos simples en subcategoria especifica.,0,16694,88,40,1
+resumen_matricula_2024,DGV_RBD,string,Digito verificador del RBD.,0,16694,10,9,1
+resumen_matricula_2024,ESTADO_ESTAB,string,Estado del establecimiento (funcionamiento/receso/cerrado u otro).,0,16694,4,1,1
+resumen_matricula_2024,MAT_CHI,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,1404,606,0
+resumen_matricula_2024,MAT_ENS_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,281,0,1
+resumen_matricula_2024,MAT_ENS_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,993,0,1
+resumen_matricula_2024,MAT_ENS_3,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,107,0,1
+resumen_matricula_2024,MAT_ENS_4,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,238,0,1
+resumen_matricula_2024,MAT_ENS_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,670,0,1
+resumen_matricula_2024,MAT_ENS_6,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,264,0,1
+resumen_matricula_2024,MAT_ENS_7,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,473,622,1
+resumen_matricula_2024,MAT_ENS_8,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,67,218,1
+resumen_matricula_2024,MAT_ETNIA,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,301,255,0
+resumen_matricula_2024,MAT_EXT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,375,231,0
+resumen_matricula_2024,MAT_HOM_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,162,0,1
+resumen_matricula_2024,MAT_HOM_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,620,0,1
+resumen_matricula_2024,MAT_HOM_3,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,77,0,1
+resumen_matricula_2024,MAT_HOM_4,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,159,0,1
+resumen_matricula_2024,MAT_HOM_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,412,0,1
+resumen_matricula_2024,MAT_HOM_6,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,182,0,1
+resumen_matricula_2024,MAT_HOM_7,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,338,403,1
+resumen_matricula_2024,MAT_HOM_8,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,54,113,1
+resumen_matricula_2024,MAT_HOM_INT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,212,32,0
+resumen_matricula_2024,MAT_HOM_TOT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,896,516,1
+resumen_matricula_2024,MAT_INT_TOTAL,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,303,50,0
+resumen_matricula_2024,MAT_MUJ_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,166,0,1
+resumen_matricula_2024,MAT_MUJ_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,604,0,1
+resumen_matricula_2024,MAT_MUJ_3,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,61,0,1
+resumen_matricula_2024,MAT_MUJ_4,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,125,0,1
+resumen_matricula_2024,MAT_MUJ_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,419,0,1
+resumen_matricula_2024,MAT_MUJ_6,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,163,0,1
+resumen_matricula_2024,MAT_MUJ_7,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,307,219,1
+resumen_matricula_2024,MAT_MUJ_8,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,46,105,1
+resumen_matricula_2024,MAT_MUJ_INT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,163,18,0
+resumen_matricula_2024,MAT_MUJ_TOT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,910,324,1
+resumen_matricula_2024,MAT_NAC,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,5,3,0
+resumen_matricula_2024,MAT_NB_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,2,0,0
+resumen_matricula_2024,MAT_NB_INT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,1,0,0
+resumen_matricula_2024,MAT_NB_TOT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,2,0,0
+resumen_matricula_2024,MAT_NO_ETNIA,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,1429,585,0
+resumen_matricula_2024,MAT_SI_1,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,2,0,1
+resumen_matricula_2024,MAT_SI_2,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,2,0,1
+resumen_matricula_2024,MAT_SI_4,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,2,0,1
+resumen_matricula_2024,MAT_SI_5,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,2,0,1
+resumen_matricula_2024,MAT_SI_6,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,2,0,0
+resumen_matricula_2024,MAT_SI_INT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,2,0,0
+resumen_matricula_2024,MAT_SI_TOT,int64,Metrica de matricula en subcategoria especifica del dataset.,0,16694,2,0,1
+resumen_matricula_2024,MAT_TOTAL,int64,Matricula total de estudiantes del establecimiento.,0,16694,1487,840,1
+resumen_matricula_2024,NOMBRE_SLEP,str,Nombre del SLEP asociado (si aplica).,15550,1144,15,CHINCHORRO,0
+resumen_matricula_2024,NOM_COM_RBD,string,Nombre de comuna del establecimiento.,0,16694,346,ARICA,1
+resumen_matricula_2024,NOM_DEPROV_RBD,string,Nombre del departamento provincial de educacion.,0,16694,42,ARICA,1
+resumen_matricula_2024,NOM_RBD,string,Nombre del establecimiento educacional.,0,16694,15320,LICEO POLITECNICO ARICA,1
+resumen_matricula_2024,NOM_REG_RBD_A,string,Nombre/abreviatura de region del establecimiento.,0,16694,16,AYP,1
+resumen_matricula_2024,RBD,int64,Rol Base de Datos del establecimiento educacional.,0,16694,16694,1,1
+resumen_matricula_2024,RURAL_RBD,string,Indicador de ruralidad del establecimiento.,0,16694,2,0,1
+resumen_matricula_2024,SLEP,float64,Codigo SLEP asociado al establecimiento (si aplica).,15550,1144,15,5.0,0
